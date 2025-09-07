@@ -26,6 +26,8 @@ This project aims to predict monthly house rent prices in India using machine le
 
 ## Files Included
 - `india_house_rent.ipynb`: Jupyter notebook with full code
+- `House_Rent_Dataset.csv`: Dataset used for training and testing
 - `README.md`: Project overview and instructions
+
 
 By - Praneel
